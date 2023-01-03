@@ -1,0 +1,23 @@
+{
+  "name": "klokke-backend",
+  "version": "1.0.0",
+  "description": "Servers and API for Klokke App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomHayner/Klokke-Backend.git"
+  },
+  "author": "HRG Interactive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomHayner/Klokke-Backend/issues"
+  },
+  "homepage": "https://github.com/thomHayner/Klokke-Backend#readme",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "websocket": "^1.0.34"
+  }
+}
